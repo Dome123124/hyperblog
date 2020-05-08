@@ -6,13 +6,10 @@ Anita Platzi no existe
 
 Master 1.0
 
-<<<<<<< HEAD
 Master 2
 
-=======
-Experimento 1 
->>>>>>> b6e88b6... exp 1
+
+Experimento 1
 
 Experimento 2
-
 Hoy hablaremos de su historia.
